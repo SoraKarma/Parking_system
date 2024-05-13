@@ -1,5 +1,5 @@
 # Ignore the entire video directory
-/video/
+
 
 
 # Ignore the yolov8s.pt.pt file in the model directory
